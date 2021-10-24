@@ -14,12 +14,10 @@ body {
   --grey: hsl(240, 9%, 89%);
   display: grid;
   place-items: center;
-  /* background: slateblue; */
 }
 
 main {
   background: url(images/background.jpg);
-  /* background: url(images/background.svg); */
   width: 375px;
   height: 812px;
   color: var(--grey);
